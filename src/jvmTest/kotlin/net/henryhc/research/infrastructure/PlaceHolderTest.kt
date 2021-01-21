@@ -1,4 +1,4 @@
-package net.henryhc.research.infrastructure.jvm
+package net.henryhc.research.infrastructure
 
 import org.junit.jupiter.api.Test
 
